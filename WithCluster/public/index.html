@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Under the Hood</title>
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <style>
+        body {
+            margin-left:15px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Under the hood with Node.js</h2>
+    <form>
+        <div>
+            <label>Number of Process : 3</label>
+            
+        </div>
+        <div>
+            <label>Time Taken (MS): </label><label id="time"></label>
+        </div>
+        <div>
+            <label>Test Description : Content Evaluation for top 3 frequent words</label>
+            <ul>
+                <li>
+                    <a href="article1.html">Article 1</a>:<label id="test1_description"></label>
+                </li>
+                <li><a href="article2.html">Article 2</a>:<label id="test2_description"></label></li>
+                <li><a href="article3.html">Article 3</a>:<label id="test3_description"></label></li>               
+            </ul>
+        </div>
+        <div>
+            
+            <!--<button id="btnrun" class="btn-primary" type="button">Run Script</button>-->
+        </div>
+        <div>
+           
+        </div>
+    </form>
+    <script type="text/javascript" src="jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" defer="defer">
+      
+           
+            $.ajax({
+                method: 'get',
+                url: 'http://localhost:5566/cluster',
+                data: '',
+                success: function (result) {
+
+
+
+                    //document.getElementById('result').innerHTML = result['r'];
+                    document.getElementById('time').innerHTML = result['time'];
+                    document.getElementById('test1_description').innerHTML = result['article1'];
+                    document.getElementById('test2_description').innerHTML = result['article2'];
+                    document.getElementById('test3_description').innerHTML = result['article3'];
+                },
+                failure: function () {
+                    console.log("Could not recieve from the server");
+                }
+            });
+    </script>
+</body>
+</html>

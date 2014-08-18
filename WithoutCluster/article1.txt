@@ -1,0 +1,56 @@
+At long last, Facebook’s search challenge to Google has arrived. But it has arrived in a much different format than many expected. Indeed, Facebook’s not using its data to provide a better search than Google. Facebook is providing a new type of search that you simply can’t do on Google or anywhere else.
+The Connections of Links Vs. Likes
+I’ve struggled with how to describe this new service. I hate the term “graph,” whether it’s used by Facebook for “Social Graph” and now for “Facebook Graph Search” or Google for “Knowledge Graph.” To the ordinary person, I feel “graph” is a noise word, saying nothing about how it represents connections between objects.
+With a typical Google search, the objects we search for are Web pages, with the connections (or graph) that help determine the pages that rise to the top primarily being links from across the Web. Links, simple form, are like votes, helping Google decide which are the most popular pages to show for a particular topic..
+With Facebook Graph Search, the objects we search for aren’t Web pages but instead virtual representations of real world objects: people, places and things. The connections are primarily Facebook Likes. Did such-and-such a person like a particular photo? A particular doctor? A particular restaurant? Those likes are the ties that bind the information in Facebook together.
+Multidimensional Searching
+Another difference is the layers of searching or refinement that Facebook Search offers compared to Google. For example, a Google search can show you restaurants in San Francisco, a pretty much single dimensional view.
+A Facebook search can show you restaurants in San Francisco liked by your friends. Or further, those liked by your friends who actually live in San Francisco, as opposed to those who live elsewhere. Or those liked by your single friends, your straight friends, your gay friends, your friends who work for a particular company….
+
+Sure, if you drill into Google+ Local, you can get something like this. It’ll offer to show you restaurants liked by your friends or liked by those similar to you. There are other types of refinements that can be done. But you won’t get the incredible myriad of possibilities that Facebook Graph search allows….
+•	Restaurants run by employees of a particular cooking school
+•	Pictures by friends who live in London
+•	Friends who are friends with people who work for a particular company, say, all the people at Facebook who know people who work at Apple
+•	Product managers who have turned into company founders
+•	Movies that your friends like
+The Promise & Challenge
+Will people want to search in these ways, to find all the books liked by two different people, or to find the most popular music liked by those who like both President Barack Obama and Clint Eastwood? At first, I’m sure there will be plenty of curiosity searches like this. But the bigger question will be whether the connections Facebook mines grow substantial enough to give Facebook Graph Search serious utility.
+Need a good plumber? An electrician? Someone to do your taxes? A doctor? A dentist? These are all typically questions that are great to ask friends. You trust friends. With Facebook Graph Search, there’s the promise of asking all your friends this at once without actually having to ask them. You can just search and discover professionals like this that they like.
+That all depends, however, on whether those professionals themselves have created a presence for themselves on Facebook. In turn, it also depends on whether those who use them have also liked them. Without those connections, there’s nothing to mine.
+When I’ve watched Facebook show me demos of Facebook Graph Search, and do some of the example searches I’ve itemized above, it’s impressive. But it’s also impressive because it’s a person from Facebook who makes heavy use on Facebook to connect to things and who is, in turn, tapping into the knowledge of many other Facebookers who are similarly hyper-connected. They are not, in a word, normal.
+Fixing The Disconnected Me
+Consider me. Not only have I not liked my electrician, my plumber, my dentist, my doctor or my tax person on Facebook, but I don’t even know if they have Facebook pages. I have nothing to offer to my Facebook friends in this regard.
+Similarly, despite the huge number of books I read through my Kindle, I never go to like those books on Facebook, so books I love are more or less invisible on Facebook.
+Facebook itself understands this challenge, but it’s hoping the promise of what search can provide will help encourage people to build the connections they may lack now.
+“There are now new reasons to make these connections. We’re hoping the existence of that will encourage it,” said Tom Stocky, director of product management at Facebook, who has worked closely on the Facebook search product. “But absolutely, early on, that [your degree of connectedness] will make the experience you have with this vary.”
+A Better Search For What You Do On Facebook
+If the utility to use Facebook as a type of super-Yelp or super-LinkedIn doesn’t prove itself at first, at the very least, Facebook Graph Search will allow people to search within Facebook itself in a better way than they can now. For example, people will be able to find all the photos they’ve liked on Facebook.
+“This is one of the best queries in the system,” Lars Rasmussen told me, the former Googler that Facebook lured away to be director of engineering, and who’s overseen the Facebook search project. “You probably like a couple of photos a day, but you’ve never been able to see a collection of them before.”
+Facebook’s “Third View” That You Create
+Rasmussen and Stocky expressed Facebook Graph Search as a new, third way that people will view Facebook. They already have their own timeline, to see what’s related to them. They have a newsfeed view, to discover what’s happening with others. Now they have a “search view” to see whatever they like.
+“We’re giving users a way to create whatever view they want,” Stocky said. Or as Rasmussen said, people give a “title” for a page they want with their search queries “and we’re just filling in the content underneath.”
+The new service will be Facebook’s first ever “beta” product and the first ever requiring a waitlist. Over the coming months, it will slowly become more available to those in English and down the line extended to other languages.
+Facebook stresses that only information that a person can regularly see on Facebook will be revealed in search. Given this, there shouldn’t be any privacy surprises. Nothing is being shared beyond the people you already share with. However, I think some people will get surprised, as the new search makes it easier to locate information in ways they weren’t expected, similar to how Timeline did the same, when it launched.
+In a quirk, those who opt into the new service won’t be able to search any longer for posts and status updates that match a particular topic. That’s a future improvement that will come to the new search. But Facebook says the loss shouldn’t be noticed given that this type of search is rarely done, in part because the current search feature for it isn’t very good. That’s what Facebook aims to correct.
+Results are also personalized. If you do a search filtered to see what your friends like, what other people see for their friends is obviously going to be different. But even if you do a general search, say to see the most popular music liked by those in a particular city, there’s a chance that the results you get might be weighted a bit more by your friends, Facebook said. However, for general searches like that, people should see fairly similar answers.
+So, want to see all the TV shows that are liked by software engineers, as an example of that type of general search? “I wouldn’t normally think to search for this anywhere else,” Stocky said, offering up yet another example of what the new Facebook Graph Search promises.
+No, you wouldn’t, because until now, there really was nowhere else to search for that type of thing. That’s the uniqueness that Facebook brings into the search game today. It’ll be interesting to see where people drive it forward.
+Introducing Facebook’s Audience Network
+
+Today we’re announcing an expanded test of Facebook’s Audience Network — a new way for advertisers to extend their campaigns beyond Facebook and into other mobile apps.
+The power of Facebook ads, off Facebook
+Facebook ads work because they’re personal, relevant and easy to measure on both desktop and mobile. The Audience Network brings these same powerful features to additional app-based mobile experiences, giving marketers even more scale for their Facebook campaigns.
+The Audience Network uses the same targeting available for Facebook ads today, including Custom Audiences, core audiences and lookalike audiences. It features the same measurement tools marketers use for their Facebook ads, too.
+Extended reach with a single click
+For marketers already running News Feed ads on Facebook, using the Audience Network takes just one click. The Audience Network will be available in all ad interfaces, as well as the API. Once a campaign is running in the Audience Network, our system handles optimization and delivery.
+Ads that drive results
+Ads in the Audience Network are designed to help marketers meet key business objectives, like driving app installs and engagement. To help deliver the best ads possible, the Audience Network delivers ads in three creative formats:
+
+The Audience Network’s native format ads fit the look and feel of the respective app supporting an ad. Early tests have shown that these ads drive great performance.
+Regardless of format, there’s no need to upload new creative — ads in the Audience Network use the same images you use for your ads on Facebook.
+Simple insights
+With the Facebook SDK or by working with a mobile measurement partner, marketers can measure app engagements and conversions, demographic information and more. The results from Facebook campaigns and Audience Network campaigns can be broken out separately to show what’s working, or results can be viewed comprehensively.
+What to expect
+The Audience Network is starting with advertisers looking to drive app installs or app engagement. We’ll expand to include additional marketing objectives in the future.
+Since we’re still in the early phases of the Audience Network, we anticipate performance to vary at first. We expect to see performance increase as more ads, apps and publishers come onto the system.
+The Audience Network will roll out to more advertisers in the coming months. If you’re interested in trying it for your mobile campaigns, reach out to your account rep or client partner. And if you’re a developer interested in adding your app to the Audience Network, click here to learn more.
